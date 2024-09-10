@@ -1,0 +1,62 @@
+.fundo{
+    background-image: url('fundo.png');
+}
+
+.capa{
+    width: 70%;
+}
+
+.nav-bar{
+    background-color: rgb(218, 213, 198);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    width: 70%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.botoes{
+    margin-left: 2rem;
+    color: rgb(47, 47, 85);
+    text-decoration: none;
+}
+
+.titulo{
+    color: rgb(113, 119, 90);
+    margin-top: 0px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sobre{
+    background-color: rgb(255, 251, 247);
+    width: 70%;
+    margin-top: 0px;
+    
+    
+}
+
+.rodape{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 70%;
+
+}
+
+.foto{
+    margin-left: 10px;
+   }
+
+   p{
+    margin-left: 10px;
+   }
+
+   .footer{
+    margin: 0px;
+   }
+
+  
